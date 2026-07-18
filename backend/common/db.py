@@ -21,7 +21,8 @@ def get_supermarket_id(conn, slug: str) -> int:
         raise ValueError(f"Supermercado desconocido: {slug}")
     return row["id"]
 
-def get_or_create_category(conn, name: str, source: str, parent_id: int | None = None) -> int:    row = conn.execute(
+def get_or_create_category(conn, name: str, source: str, parent_id: int | None = None) -> int:
+    row = conn.execute(
         "SELECT id FROM category WHERE name = ? AND source = ? AND (parent_id IS ? )",
         (name, source, parent_id),
     ).fetchone()
