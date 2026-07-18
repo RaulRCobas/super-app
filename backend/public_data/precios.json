@@ -68150,6 +68150,12 @@
           "price": 4.79,
           "unit_price": 0.2395,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.79,
+          "unit_price": 0.2395,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68158,6 +68164,30 @@
       "name": "Aceite oliva 0,4º ABRIL botella 1 l",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 3.95,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.85,
+          "unit_price": 4.85,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.7,
+          "unit_price": 1.7,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.49,
+          "unit_price": 4.49,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.95,
@@ -68194,6 +68224,12 @@
           "price": 3,
           "unit_price": 47.619,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3,
+          "unit_price": 47.619,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68202,6 +68238,18 @@
       "name": "Pan de molde IFA ELIGES clásico 820 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.4024,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.05,
+          "unit_price": 2.3333,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.15,
@@ -68226,6 +68274,12 @@
           "price": 0.9,
           "unit_price": 0.9,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.9,
+          "unit_price": 0.9,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68234,6 +68288,12 @@
       "name": "Azúcar blanco bolsa pvc 1 kg",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.9,
+          "unit_price": 0.9,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.9,
@@ -68252,6 +68312,12 @@
           "price": 1.87,
           "unit_price": 1.87,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.87,
+          "unit_price": 1.87,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68260,6 +68326,18 @@
       "name": "Garbanzos cocidos IFA ELIGES frasco 400 g pne.",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.68,
+          "unit_price": 1.7,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.29,
+          "unit_price": 3.225,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.68,
@@ -68290,6 +68368,18 @@
           "price": 3.49,
           "unit_price": 8.3095,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.59,
+          "unit_price": 10.9286,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.49,
+          "unit_price": 8.3095,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68298,6 +68388,12 @@
       "name": "Atún claro al natural ALVA pack 3x56 g pne.",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.96,
+          "unit_price": 11.6667,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.96,
@@ -68316,6 +68412,12 @@
           "price": 0.48,
           "unit_price": 1.2,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.48,
+          "unit_price": 1.2,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68324,6 +68426,12 @@
       "name": "Huevos CAMPOMAYOR L 12 unidades",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 0.3292,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.95,
@@ -68342,6 +68450,12 @@
           "price": 3.2,
           "unit_price": 43.8356,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.2,
+          "unit_price": 43.8356,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68350,6 +68464,12 @@
       "name": "Nuez mondada cruda IFA ELIGES bolsa 200g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.5,
+          "unit_price": 12.5,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.5,
@@ -68368,6 +68488,12 @@
           "price": 2.45,
           "unit_price": 9.8,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.45,
+          "unit_price": 9.8,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68381,6 +68507,12 @@
           "price": 1.15,
           "unit_price": 1.15,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.15,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68389,6 +68521,18 @@
       "name": "Harina de trigo IFA ELIGES paquete 1 kg",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.69,
+          "unit_price": 0.69,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.44,
+          "unit_price": 1.44,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.69,
@@ -68419,6 +68563,18 @@
           "price": 0.44,
           "unit_price": 1.1282,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": 1.5079,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.44,
+          "unit_price": 1.1282,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68427,6 +68583,12 @@
       "name": "Huevos camperos COREN M/L 12 unidades (LIBRES DE JAULA)",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 4.89,
+          "unit_price": 0.4075,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 4.89,
@@ -68445,6 +68607,12 @@
           "price": 0.85,
           "unit_price": 0.2125,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.85,
+          "unit_price": 0.2125,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68453,6 +68621,12 @@
       "name": "Tortillas de trigo para fajitas IFA ELIGES 8 unidades 320 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1,
+          "unit_price": 0.125,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1,
@@ -68471,6 +68645,12 @@
           "price": 0.99,
           "unit_price": 0.99,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": 0.99,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68479,6 +68659,12 @@
       "name": "Aceituna rellena de anchoa IFA ELIGES 150 g pne.",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": 6.6,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.99,
@@ -68497,6 +68683,12 @@
           "price": 2.99,
           "unit_price": 5.98,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 5.98,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68505,6 +68697,12 @@
       "name": "Pan de molde IFA ELIGES 100% integral 820 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.4024,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.15,
@@ -68523,6 +68721,12 @@
           "price": 1.09,
           "unit_price": 1.09,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.09,
+          "unit_price": 1.09,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68531,6 +68735,12 @@
       "name": "Cereales IFA ELIGES copos de avena 500 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": 1.98,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.99,
@@ -68549,6 +68759,12 @@
           "price": 1.7,
           "unit_price": 1.7,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.7,
+          "unit_price": 1.7,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68557,6 +68773,12 @@
       "name": "Pan BIMBO natural integral 460 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 6.5,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.99,
@@ -68575,6 +68797,12 @@
           "price": 0.85,
           "unit_price": 1.1333,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.85,
+          "unit_price": 1.1333,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68583,6 +68811,12 @@
       "name": "Anacardo crudo IFA ELIGES bolsa 150g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.99,
+          "unit_price": 13.2667,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.99,
@@ -68601,6 +68835,12 @@
           "price": 1.89,
           "unit_price": 3.15,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.89,
+          "unit_price": 3.15,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68609,6 +68849,12 @@
       "name": "Huevos de gallinas alimentadas a base de maíz DEMILLO M/L 12 unidades",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.89,
+          "unit_price": 0.3242,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.89,
@@ -68627,6 +68873,12 @@
           "price": 1.15,
           "unit_price": 1.15,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.15,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68640,6 +68892,12 @@
           "price": 1.35,
           "unit_price": 3.375,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.35,
+          "unit_price": 3.375,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68648,6 +68906,12 @@
       "name": "Pistacho tostado sin sal IFA ELIGES bolsa 150g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.04,
+          "unit_price": 13.6,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.04,
@@ -68672,6 +68936,18 @@
           "price": 1.92,
           "unit_price": 3.5556,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.45,
+          "unit_price": 4.1429,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.92,
+          "unit_price": 3.5556,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68680,6 +68956,12 @@
       "name": "Croissants rellenos cacao IFA ELIGES bolsa 360 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.87,
+          "unit_price": 5.1944,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.87,
@@ -68698,6 +68980,12 @@
           "price": 1.29,
           "unit_price": 1.6125,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.29,
+          "unit_price": 1.6125,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68711,6 +68999,12 @@
           "price": 2.09,
           "unit_price": 10.45,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.09,
+          "unit_price": 10.45,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68719,6 +69013,12 @@
       "name": "Chocolate negro IFA ELIGES 85% cacao tableta 100 g",
       "category": "Alimentación",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.75,
+          "unit_price": 17.5,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.75,
@@ -68749,6 +69049,24 @@
           "price": 2.99,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.3,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.55,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68757,6 +69075,12 @@
       "name": "Pechugas pollo enteras sin piel (mostrador tradicional) kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5.99,
@@ -68775,6 +69099,12 @@
           "price": 1.49,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.49,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68783,6 +69113,18 @@
       "name": "Zanahoria categoría 1ª calibre 20/35mm bolsa 1 kg",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.12,
+          "unit_price": 1.12,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.85,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.12,
@@ -68813,6 +69155,18 @@
           "price": 2.8,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.7,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.8,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68821,6 +69175,12 @@
       "name": "Fresas categoría 1ª bandeja 500 g",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.75,
+          "unit_price": 7.5,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.75,
@@ -68839,6 +69199,12 @@
           "price": 2.99,
           "unit_price": 5.98,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 5.98,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68847,6 +69213,18 @@
       "name": "Traseros pollo (mostrador tradicional) kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.45,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.45,
@@ -68883,6 +69261,24 @@
           "price": 4.99,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.19,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68891,6 +69287,18 @@
       "name": "Brécol categoría 1ª kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.6,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.5,
+          "unit_price": 3,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.6,
@@ -68933,6 +69341,30 @@
           "price": 2.99,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.4,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.25,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68941,6 +69373,12 @@
       "name": "Cebolla deshojada categoría 1ª calibre 5/6 (60/80mm) kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.99,
@@ -68959,6 +69397,12 @@
           "price": 1.85,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.85,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68967,6 +69411,12 @@
       "name": "Aguacate (peso pieza 300-371 g) unidad",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.29,
+          "unit_price": 3.4771,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.29,
@@ -68991,6 +69441,18 @@
           "price": 1.5,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.4,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.5,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -68999,6 +69461,12 @@
       "name": "Queso rallado Mozzarella IFA ELIGES Natural sin gluten bolsa zip 200 g",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.6,
+          "unit_price": 8,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.6,
@@ -69017,6 +69485,12 @@
           "price": 1.69,
           "unit_price": 3.38,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.69,
+          "unit_price": 3.38,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69025,6 +69499,12 @@
       "name": "Aguacate Hass categoría 1ª (4/5 piezas) bandeja 500 g",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.25,
+          "unit_price": 4.5,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.25,
@@ -69043,6 +69523,12 @@
           "price": 11.49,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 11.49,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69051,6 +69537,12 @@
       "name": "Cinta lomo de cerdo kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5.75,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5.75,
@@ -69069,6 +69561,12 @@
           "price": 5.6,
           "unit_price": 1.12,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 5.6,
+          "unit_price": 1.12,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69077,6 +69575,18 @@
       "name": "Burger meat ternera/cerdo picada (elaboración propia) kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 10.9,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 15.65,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 10.9,
@@ -69107,6 +69617,18 @@
           "price": 5.99,
           "unit_price": 11.98,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.19,
+          "unit_price": 12.76,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 5.99,
+          "unit_price": 11.98,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69115,6 +69637,12 @@
       "name": "Kiwi Sungold ZESPRI categoría 1ª (88-134 g) bandeja 500 g",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.99,
+          "unit_price": 29.7761,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.99,
@@ -69133,6 +69661,12 @@
           "price": 1.99,
           "unit_price": 4.4222,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.99,
+          "unit_price": 4.4222,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69141,6 +69675,12 @@
       "name": "Aguacate Hass categoría 1ª color 2/3 calibre 10/18 (200-460 g) kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5.29,
+          "unit_price": 11.5,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5.29,
@@ -69159,6 +69699,12 @@
           "price": 5.25,
           "unit_price": 1.75,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 5.25,
+          "unit_price": 1.75,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69167,6 +69713,12 @@
       "name": "Filete jamón de cerdo kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5.85,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5.85,
@@ -69185,6 +69737,12 @@
           "price": 10.9,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 10.9,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69198,6 +69756,12 @@
           "price": 1.99,
           "unit_price": 3.98,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.99,
+          "unit_price": 3.98,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69206,6 +69770,12 @@
       "name": "Chuletas de aguja cerdo kilo",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5.75,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5.75,
@@ -69230,6 +69800,18 @@
           "price": 3.95,
           "unit_price": 9.875,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.75,
+          "unit_price": 9.375,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 9.875,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69238,6 +69820,12 @@
       "name": "Ajo morado butti calibre 50/55mm 4 unidades 200 g",
       "category": "Frescos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.39,
+          "unit_price": 0.3475,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.39,
@@ -69256,6 +69844,12 @@
           "price": 2.59,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.59,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69269,6 +69863,12 @@
           "price": 2.25,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.25,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69277,6 +69877,12 @@
       "name": "Hielo CUBERS Classic Ice bolsa 2 kg",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 0.575,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.15,
@@ -69313,6 +69919,30 @@
           "price": 2.89,
           "unit_price": 7.225,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.49,
+          "unit_price": 1.49,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.98,
+          "unit_price": 4.98,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1,
+          "unit_price": 2.5,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.89,
+          "unit_price": 7.225,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69321,6 +69951,12 @@
       "name": "Salmón noruego congelado EXKIMO 2 porciones 250 g pn.",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 6.15,
+          "unit_price": 24.6,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 6.15,
@@ -69351,6 +69987,24 @@
           "price": 2.15,
           "unit_price": 7.1667,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.1,
+          "unit_price": 2.1,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.8,
+          "unit_price": 1.8,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.15,
+          "unit_price": 7.1667,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69359,6 +70013,12 @@
       "name": "Espinacas en hojas congeladas IFA ELIGES en porcións bolsa 400 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.88,
+          "unit_price": 2.2,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.88,
@@ -69389,6 +70049,24 @@
           "price": 1.9,
           "unit_price": 6.3333,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": 0.99,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.24,
+          "unit_price": 8.1,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.9,
+          "unit_price": 6.3333,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69397,6 +70075,12 @@
       "name": "Pimiento rojo y verde congelado IFA ELIGES 450 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.2,
+          "unit_price": 2.6667,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.2,
@@ -69415,6 +70099,12 @@
           "price": 2,
           "unit_price": 5,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2,
+          "unit_price": 5,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69423,6 +70113,18 @@
       "name": "Filetes de merluza argentina sin piel congelados WOFCO 600 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 4.85,
+          "unit_price": 8.0833,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.85,
+          "unit_price": 12.125,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 4.85,
@@ -69453,6 +70155,18 @@
           "price": 2.63,
           "unit_price": 5.26,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.84,
+          "unit_price": 2.1,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.63,
+          "unit_price": 5.26,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69461,6 +70175,18 @@
       "name": "Gamba pelada congelada IFA ELIGES 70/88 mediana 360 g pn.",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5,
+          "unit_price": 13.8889,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 13.2889,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5,
@@ -69503,6 +70229,30 @@
           "price": 1.32,
           "unit_price": 2.2,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.87,
+          "unit_price": 1.87,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.85,
+          "unit_price": 1.85,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.75,
+          "unit_price": 1.5,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.32,
+          "unit_price": 2.2,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69511,6 +70261,12 @@
       "name": "Corazones filete de merluza PESCANOVA estuche 500 g pne.",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 7.7,
+          "unit_price": 15.4,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 7.7,
@@ -69535,6 +70291,18 @@
           "price": 1.45,
           "unit_price": 1.45,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.25,
+          "unit_price": 1.25,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.45,
+          "unit_price": 1.45,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69543,6 +70311,12 @@
       "name": "Mix frutos rojos congelados IFA ELIGES 300 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.9,
+          "unit_price": 6.3333,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.9,
@@ -69561,6 +70335,12 @@
           "price": 1.4,
           "unit_price": 2.8,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.4,
+          "unit_price": 2.8,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69569,6 +70349,12 @@
       "name": "Menestra de verduras congeladas IFA ELIGES 1 kg",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.59,
+          "unit_price": 1.59,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.59,
@@ -69587,6 +70373,12 @@
           "price": 1.16,
           "unit_price": 2.5778,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.16,
+          "unit_price": 2.5778,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69595,6 +70387,12 @@
       "name": "San Jacobo congelado IFA ELIGES 320 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.33,
+          "unit_price": 4.1562,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.33,
@@ -69613,6 +70411,12 @@
           "price": 9.75,
           "unit_price": 24.375,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 9.75,
+          "unit_price": 24.375,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69621,6 +70425,12 @@
       "name": "Magníficas del Mar congeladas IFA ELIGES 2x100 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.75,
+          "unit_price": 8.75,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.75,
@@ -69639,6 +70449,12 @@
           "price": 6.99,
           "unit_price": 10.9219,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 6.99,
+          "unit_price": 10.9219,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69647,6 +70463,12 @@
       "name": "Helado cono vainilla choco IFA ELIGES 6x76 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.57,
+          "unit_price": 5.636,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.57,
@@ -69665,6 +70487,12 @@
           "price": 6.55,
           "unit_price": 26.2,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 6.55,
+          "unit_price": 26.2,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69673,6 +70501,12 @@
       "name": "Brocoli coliflor y zanahoria congelada IFA ELIGES 1 k",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2,
@@ -69691,6 +70525,12 @@
           "price": 2.45,
           "unit_price": 7.2059,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.45,
+          "unit_price": 7.2059,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69699,6 +70539,12 @@
       "name": "Tronquitos de mar congelados IFA ELIGES sin gluten 450 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.88,
+          "unit_price": 4.1778,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.88,
@@ -69717,6 +70563,12 @@
           "price": 2.54,
           "unit_price": 5.6444,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.54,
+          "unit_price": 5.6444,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69725,6 +70577,12 @@
       "name": "Medallones de merluza argentina NOS 475 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 4.39,
+          "unit_price": 9.2421,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 4.39,
@@ -69743,6 +70601,12 @@
           "price": 3.95,
           "unit_price": 14.6296,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 14.6296,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69751,6 +70615,12 @@
       "name": "Preparado paella y sopa marisco congelado IFA ELIGES 685 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 4.25,
+          "unit_price": 6.2044,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 4.25,
@@ -69769,6 +70639,12 @@
           "price": 6.69,
           "unit_price": 16.725,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 6.69,
+          "unit_price": 16.725,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69777,6 +70653,12 @@
       "name": "Varitas merluza empanadas congeladas PESCANOVA estuche 300 g",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.59,
+          "unit_price": 11.9667,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.59,
@@ -69795,6 +70677,12 @@
           "price": 1.05,
           "unit_price": 2.625,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.05,
+          "unit_price": 2.625,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69808,6 +70696,12 @@
           "price": 1.8,
           "unit_price": 3.6,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.8,
+          "unit_price": 3.6,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69816,6 +70710,12 @@
       "name": "Ensaladilla congelada FINDUS bolsa 1 kg pn.",
       "category": "Congelado",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 4.98,
+          "unit_price": 4.98,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 4.98,
@@ -69852,6 +70752,30 @@
           "price": 1.13,
           "unit_price": 1.13,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.84,
+          "unit_price": 0.84,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.13,
+          "unit_price": 1.13,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.12,
+          "unit_price": 1.12,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.13,
+          "unit_price": 1.13,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69860,6 +70784,24 @@
       "name": "Leche entera CAMPONUESTRO brik 1 l",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.96,
+          "unit_price": 0.96,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.82,
+          "unit_price": 0.82,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.1,
+          "unit_price": 1.1,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.96,
@@ -69914,6 +70856,36 @@
           "price": 2.2,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.45,
+          "unit_price": 1.9333,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.33,
+          "unit_price": 1.33,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.85,
+          "unit_price": 2.4667,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.55,
+          "unit_price": 2.0667,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.2,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69927,6 +70899,12 @@
           "price": 0.91,
           "unit_price": 0.91,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.91,
+          "unit_price": 0.91,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69935,6 +70913,30 @@
       "name": "Leche entera LEYMA NATURA brik 1 l",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.15,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.04,
+          "unit_price": 1.04,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.09,
+          "unit_price": 1.09,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.39,
+          "unit_price": 1.39,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.15,
@@ -69983,6 +70985,24 @@
           "price": 1.99,
           "unit_price": 2.0729,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.2,
+          "unit_price": 2.2,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.35,
+          "unit_price": 2.8,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.99,
+          "unit_price": 2.0729,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -69991,6 +71011,12 @@
       "name": "Leche semidesnatada LEYMA NATURA brik 1 l",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.09,
+          "unit_price": 1.09,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.09,
@@ -70027,6 +71053,30 @@
           "price": 1.07,
           "unit_price": 1.07,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.19,
+          "unit_price": 1.19,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.25,
+          "unit_price": 1.25,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.17,
+          "unit_price": 1.17,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.07,
+          "unit_price": 1.07,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70035,6 +71085,12 @@
       "name": "Leche sin lactosa semidesnatada IFA ELIGES brik 1 l",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.94,
+          "unit_price": 0.94,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.94,
@@ -70065,6 +71121,24 @@
           "price": 1.79,
           "unit_price": 1.1933,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.17,
+          "unit_price": 1.17,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.34,
+          "unit_price": 1.34,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.79,
+          "unit_price": 1.1933,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70073,6 +71147,12 @@
       "name": "Nata para cocinar IFA ELIGES brik 3x200 ml",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.79,
+          "unit_price": 2.9833,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.79,
@@ -70097,6 +71177,18 @@
           "price": 2.51,
           "unit_price": 2.51,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.35,
+          "unit_price": 2.8,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.51,
+          "unit_price": 2.51,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70105,6 +71197,12 @@
       "name": "Kéfir IFA ELIGES NATURAL 500 G",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.1,
+          "unit_price": 2.2,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.1,
@@ -70123,6 +71221,12 @@
           "price": 1.95,
           "unit_price": 7.8,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.95,
+          "unit_price": 7.8,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70131,6 +71235,18 @@
       "name": "Yogur LARSA sabor limón vaso 125 g",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.35,
+          "unit_price": 2.8,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.35,
+          "unit_price": 2.8,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.35,
@@ -70167,6 +71283,24 @@
           "price": 1.13,
           "unit_price": 1.13,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.29,
+          "unit_price": 1.29,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.97,
+          "unit_price": 1.3133,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.13,
+          "unit_price": 1.13,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70175,6 +71309,12 @@
       "name": "Bebida de avena YOSOY brik 1 l",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.65,
+          "unit_price": 1.65,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.65,
@@ -70199,6 +71339,18 @@
           "price": 1.34,
           "unit_price": 1.34,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.79,
+          "unit_price": 1.4917,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.34,
+          "unit_price": 1.34,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70207,6 +71359,12 @@
       "name": "Yogur griego IFA ELIGES con fresas 6X125 g",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.65,
+          "unit_price": 2.2,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.65,
@@ -70231,6 +71389,18 @@
           "price": 2.99,
           "unit_price": 6.7955,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.49,
+          "unit_price": 3.2391,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 6.7955,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70239,6 +71409,12 @@
       "name": "Natillas de vainilla IFA ELIGES 4X125 g",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": 1.98,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.99,
@@ -70257,6 +71433,12 @@
           "price": 1.77,
           "unit_price": 1.18,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.77,
+          "unit_price": 1.18,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70265,6 +71447,12 @@
       "name": "Yogur LARSA con mandarina vaso 125 g",
       "category": "Lácteos",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.44,
+          "unit_price": 3.52,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.44,
@@ -70283,6 +71471,12 @@
           "price": 3.89,
           "unit_price": 15.56,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.89,
+          "unit_price": 15.56,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70296,6 +71490,12 @@
           "price": 0.44,
           "unit_price": 3.52,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.44,
+          "unit_price": 3.52,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70304,6 +71504,42 @@
       "name": "Agua mineral natural IFA ELIGES 1,5 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.26,
+          "unit_price": 0.1733,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.66,
+          "unit_price": 0.132,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.94,
+          "unit_price": 0.1175,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.21,
+          "unit_price": 0.42,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.42,
+          "unit_price": 0.28,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.23,
+          "unit_price": 0.46,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.26,
@@ -70388,6 +71624,48 @@
           "price": 3.96,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 13.95,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 8.16,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.84,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.2,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 19.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.12,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.96,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70419,6 +71697,30 @@
           "price": 2.19,
           "unit_price": 0.438,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.74,
+          "unit_price": 0.4933,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.48,
+          "unit_price": 0.32,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.99,
+          "unit_price": 0.4988,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.19,
+          "unit_price": 0.438,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70427,6 +71729,18 @@
       "name": "Agua sin gas MONDARIZ botella pet 1,5 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.74,
+          "unit_price": 0.4933,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.68,
+          "unit_price": 0.68,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.74,
@@ -70499,6 +71813,60 @@
           "price": 4.15,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 9.96,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 9.96,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 9.96,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 0.9875,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 0.9875,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.15,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70512,6 +71880,12 @@
           "price": 8.8,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 8.8,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70520,6 +71894,18 @@
       "name": "Agua sin gas natural SOLAN DE CABRAS pet 1,5 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.89,
+          "unit_price": 0.5933,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.75,
+          "unit_price": 0.55,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.89,
@@ -70556,6 +71942,24 @@
           "price": 3.95,
           "unit_price": 0.4938,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.79,
+          "unit_price": 0.5267,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.35,
+          "unit_price": 0.27,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 0.4938,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70564,6 +71968,12 @@
       "name": "Zumo naranja IFA Eliges 100% exprimido 1 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.79,
+          "unit_price": 1.79,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.79,
@@ -70588,6 +71998,18 @@
           "price": 0.48,
           "unit_price": 0.32,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.67,
+          "unit_price": 0.4467,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.48,
+          "unit_price": 0.32,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70596,6 +72018,12 @@
       "name": "Vino blanco de mesa IFA ELIGES 11º brik 1 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": 0.95,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.95,
@@ -70614,6 +72042,12 @@
           "price": 0.51,
           "unit_price": 0.34,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.51,
+          "unit_price": 0.34,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70627,6 +72061,12 @@
           "price": 0.8,
           "unit_price": 0.4,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.8,
+          "unit_price": 0.4,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70635,6 +72075,12 @@
       "name": "Cerveza 1906 Reserva Especial botelín 12x33 cl",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 14.59,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 14.59,
@@ -70659,6 +72105,18 @@
           "price": 4.15,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 0.9875,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.15,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70667,6 +72125,12 @@
       "name": "Cerveza rubia MOLEN BIER lata 33 cl",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.31,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.31,
@@ -70685,6 +72149,12 @@
           "price": 2.15,
           "unit_price": 0.43,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.15,
+          "unit_price": 0.43,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70693,6 +72163,12 @@
       "name": "Agua sin gas AGUA DE CUEVAS botella 1,5 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.62,
+          "unit_price": 0.4133,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.62,
@@ -70711,6 +72187,12 @@
           "price": 2.95,
           "unit_price": 2.95,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.95,
+          "unit_price": 2.95,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70719,6 +72201,12 @@
       "name": "Cerveza MAHOU 5 estrellas lata pack 12x33 cl",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 10.08,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 10.08,
@@ -70737,6 +72225,12 @@
           "price": 0.78,
           "unit_price": 0.78,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.78,
+          "unit_price": 0.78,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70745,6 +72239,12 @@
       "name": "Bebida refrescante AQUARIUS limón zero botella pet 1,5 l",
       "category": "Bodega y bebidas",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.1,
+          "unit_price": 1.4,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.1,
@@ -70775,6 +72275,24 @@
           "price": 0.63,
           "unit_price": 0.009,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 0.0057,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.59,
+          "unit_price": 0.0159,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.63,
+          "unit_price": 0.009,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70783,6 +72301,12 @@
       "name": "Papel cocina IFA SABE multiusos 1 rollo",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.89,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.89,
@@ -70837,6 +72361,48 @@
           "price": 8.29,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.25,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 5.75,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.25,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.35,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.89,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 8.29,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70845,6 +72411,12 @@
       "name": "Papel higiénico húmedo IFA UNNIA 100 unidades",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.35,
+          "unit_price": 0.0135,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.35,
@@ -70863,6 +72435,12 @@
           "price": 1.8,
           "unit_price": 0.06,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.8,
+          "unit_price": 0.06,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70876,6 +72454,12 @@
           "price": 0.9,
           "unit_price": 0.9,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.9,
+          "unit_price": 0.9,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70884,6 +72468,12 @@
       "name": "Limpiador gel wc con lejía IFA SABE 1 l",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.05,
+          "unit_price": 1.05,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.05,
@@ -70920,6 +72510,30 @@
           "price": 3.99,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.15,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 6.95,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70928,6 +72542,12 @@
       "name": "Papel higiénico CARICIAS 3 capas acolchado 9 rollos",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.99,
@@ -70946,6 +72566,12 @@
           "price": 2.15,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.15,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70959,6 +72585,12 @@
           "price": 1.13,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.13,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70967,6 +72599,12 @@
       "name": "Papel higiénico FOXY mega rollo 4=12 rollos",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.53,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.53,
@@ -70991,6 +72629,18 @@
           "price": 1.9,
           "unit_price": 0.38,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.8,
+          "unit_price": 0.4,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.9,
+          "unit_price": 0.38,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -70999,6 +72649,12 @@
       "name": "Bolsa basura 10 litros IFA SABE mini perfumada autocierre 30 unidades",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.05,
+          "unit_price": 0.105,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.05,
@@ -71017,6 +72673,12 @@
           "price": 3,
           "unit_price": 0.5,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3,
+          "unit_price": 0.5,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71030,6 +72692,12 @@
           "price": 2.99,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71038,6 +72706,12 @@
       "name": "Lavavajillas mano concentrado FAIRY ultra 1250 ml",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 5.29,
+          "unit_price": 4.232,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 5.29,
@@ -71062,6 +72736,18 @@
           "price": 0.89,
           "unit_price": 0.0297,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.7,
+          "unit_price": 0.0567,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.89,
+          "unit_price": 0.0297,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71070,6 +72756,12 @@
       "name": "Deterlejía limón UNEX 2 l",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 0.575,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.15,
@@ -71088,6 +72780,12 @@
           "price": 2.99,
           "unit_price": 0.4983,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 0.4983,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71096,6 +72794,12 @@
       "name": "Papel cocina FOXY cartapaglia fritos 2 rollos",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.25,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.25,
@@ -71114,6 +72818,12 @@
           "price": 1.15,
           "unit_price": 1.15,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.15,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71122,6 +72832,12 @@
       "name": "Bolsas basura 30 l ALBAL HANDY BAG resistentes antigoteo 12 unidades",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.49,
+          "unit_price": 0.083,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.49,
@@ -71140,6 +72856,12 @@
           "price": 2.25,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.25,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71153,6 +72875,12 @@
           "price": 0.9,
           "unit_price": 0.3,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.9,
+          "unit_price": 0.3,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71161,6 +72889,12 @@
       "name": "Detergente líquido DISICLIN Acción Total 52 lavados",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 4.49,
+          "unit_price": 0.0863,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 4.49,
@@ -71185,6 +72919,18 @@
           "price": 0.95,
           "unit_price": 0.6333,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": 0.6333,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.95,
+          "unit_price": 0.6333,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71193,6 +72939,12 @@
       "name": "Pañuelos papel IFA SABE pocket 4 capas 10x9 unidades",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.99,
+          "unit_price": 0.011,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.99,
@@ -71211,6 +72963,12 @@
           "price": 2.99,
           "unit_price": 3.9867,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 3.9867,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71219,6 +72977,12 @@
       "name": "Limpiador higienizante DISICLIN multiusos lavanda 1 l",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.49,
+          "unit_price": 1.49,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.49,
@@ -71237,6 +73001,12 @@
           "price": 0.64,
           "unit_price": 0.0213,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.64,
+          "unit_price": 0.0213,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71245,6 +73015,12 @@
       "name": "Suavizante concentrado DISICLIN Oceanic 80 lavados 1,4 l",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.39,
+          "unit_price": 0.0299,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.39,
@@ -71263,6 +73039,12 @@
           "price": 2.99,
           "unit_price": 1.495,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 1.495,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71271,6 +73053,12 @@
       "name": "Papel cocina FOXY tornado azul 1 rollo",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.55,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.55,
@@ -71289,6 +73077,12 @@
           "price": 1.75,
           "unit_price": null,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.75,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71297,6 +73091,12 @@
       "name": "Lejía ESTRELLA limón 1,43 l",
       "category": "Limpieza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.55,
+          "unit_price": 1.7832,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.55,
@@ -71327,6 +73127,24 @@
           "price": 0.85,
           "unit_price": 1.7,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.8,
+          "unit_price": 1.6,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.4,
+          "unit_price": 1.4,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 0.85,
+          "unit_price": 1.7,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71340,6 +73158,12 @@
           "price": 1.05,
           "unit_price": 1.05,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.05,
+          "unit_price": 1.05,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71348,6 +73172,18 @@
       "name": "Discos desmaquillantes IFA UNNIA 120 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.8,
+          "unit_price": 0.0067,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.1,
+          "unit_price": 0.0138,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.8,
@@ -71390,6 +73226,30 @@
           "price": 2.45,
           "unit_price": 32.6667,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.45,
+          "unit_price": 19.3333,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 4.85,
+          "unit_price": 32.3333,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 19.9333,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.45,
+          "unit_price": 32.6667,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71403,6 +73263,12 @@
           "price": 2.99,
           "unit_price": 4.9833,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 4.9833,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71411,6 +73277,18 @@
       "name": "Salvaslip EVAX normal 50 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.35,
+          "unit_price": 0.047,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 0.0748,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.35,
@@ -71441,6 +73319,18 @@
           "price": 2.45,
           "unit_price": 2.0417,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.45,
+          "unit_price": 2.0417,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.45,
+          "unit_price": 2.0417,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71449,6 +73339,12 @@
       "name": "Alcohol 96º IFA UNNIA 250 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.75,
+          "unit_price": 3,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.75,
@@ -71467,6 +73363,12 @@
           "price": 2.89,
           "unit_price": 3.8533,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.89,
+          "unit_price": 3.8533,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71475,6 +73377,12 @@
       "name": "Gel de baño aceite de almendras IFA UNNIA 750 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.25,
+          "unit_price": 1.6667,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.25,
@@ -71493,6 +73401,12 @@
           "price": 2.79,
           "unit_price": 37.2,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.79,
+          "unit_price": 37.2,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71506,6 +73420,12 @@
           "price": 2.99,
           "unit_price": 19.9333,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 19.9333,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71514,6 +73434,12 @@
       "name": "Gel de ducha DOVE hidratante 720 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.95,
+          "unit_price": 5.4861,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.95,
@@ -71538,6 +73464,18 @@
           "price": 1.15,
           "unit_price": 1.5333,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.5,
+          "unit_price": 2,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.15,
+          "unit_price": 1.5333,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71546,6 +73484,12 @@
       "name": "Jabón de manos BABARIA aloe vera dosificador 500 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.89,
+          "unit_price": 3.78,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.89,
@@ -71570,6 +73514,18 @@
           "price": 2.99,
           "unit_price": 4.6,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.95,
+          "unit_price": 4.9167,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.99,
+          "unit_price": 4.6,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71578,6 +73534,12 @@
       "name": "Gel de ducha SANEX experto protector 850 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.77,
+          "unit_price": 4.4353,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.77,
@@ -71596,6 +73558,12 @@
           "price": 2.95,
           "unit_price": 4.9167,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.95,
+          "unit_price": 4.9167,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71604,6 +73572,12 @@
       "name": "Agua oxigenada IFA UNNIA 250 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 0.65,
+          "unit_price": 2.6,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 0.65,
@@ -71622,6 +73596,12 @@
           "price": 1.2,
           "unit_price": 1.6,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.2,
+          "unit_price": 1.6,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71630,6 +73610,12 @@
       "name": "Dentífrico PROFIDEN Anticaries 75 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1,
+          "unit_price": 13.3333,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1,
@@ -71648,6 +73634,12 @@
           "price": 1.35,
           "unit_price": 2.7,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.35,
+          "unit_price": 2.7,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71656,6 +73648,12 @@
       "name": "Compresas EVAX Liberty normal alas 12 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.69,
+          "unit_price": 0.2242,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.69,
@@ -71674,6 +73672,12 @@
           "price": 1.35,
           "unit_price": 1.8,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.35,
+          "unit_price": 1.8,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71682,6 +73686,12 @@
       "name": "Enjuague bucal IFA UNNIA menta fresca 500 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.3,
+          "unit_price": 2.6,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.3,
@@ -71700,6 +73710,12 @@
           "price": 2.95,
           "unit_price": 4.9167,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 2.95,
+          "unit_price": 4.9167,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71708,6 +73724,12 @@
       "name": "Compresas EVAX fina y segura normal 16 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.4,
+          "unit_price": 0.0875,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.4,
@@ -71726,6 +73748,12 @@
           "price": 5.99,
           "unit_price": 39.9333,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 5.99,
+          "unit_price": 39.9333,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71734,6 +73762,12 @@
       "name": "Compresa AUSONIA ultrafina normal alas 14 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.72,
+          "unit_price": 0.1229,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.72,
@@ -71752,6 +73786,12 @@
           "price": 5.65,
           "unit_price": 37.6667,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 5.65,
+          "unit_price": 37.6667,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71760,6 +73800,12 @@
       "name": "Desodorante SANEX extra control roll on 50 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.35,
+          "unit_price": 47,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.35,
@@ -71778,6 +73824,12 @@
           "price": 1.68,
           "unit_price": 0.168,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.68,
+          "unit_price": 0.168,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71786,6 +73838,12 @@
       "name": "Esponjas con jabón BEGOBAÑO 24 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.45,
+          "unit_price": 0.0604,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.45,
@@ -71804,6 +73862,12 @@
           "price": 3.9,
           "unit_price": 11.8182,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.9,
+          "unit_price": 11.8182,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71812,6 +73876,12 @@
       "name": "Gel baño INSTITUTO ESPAÑOL urea 1200 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 2.95,
+          "unit_price": 2.4583,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 2.95,
@@ -71830,6 +73900,12 @@
           "price": 3.5,
           "unit_price": 9.7222,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.5,
+          "unit_price": 9.7222,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71838,6 +73914,12 @@
       "name": "Protegeslip CAREFREE flexiform sin fragancia 30 unidades",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 1.95,
+          "unit_price": 0.065,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 1.95,
@@ -71856,6 +73938,12 @@
           "price": 3.85,
           "unit_price": 11.8462,
           "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 3.85,
+          "unit_price": 11.8462,
+          "captured_at": "2026-07-18"
         }
       ]
     },
@@ -71864,6 +73952,12 @@
       "name": "Champú PANTENE Repara&Protege 325 ml",
       "category": "Higiene y belleza",
       "prices": [
+        {
+          "supermarket": "gadis",
+          "price": 3.85,
+          "unit_price": 11.8462,
+          "captured_at": "2026-07-18"
+        },
         {
           "supermarket": "gadis",
           "price": 3.85,
@@ -71881,6 +73975,362 @@
           "supermarket": "gadis",
           "price": 1.05,
           "unit_price": 0.0375,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "gadis",
+          "price": 1.05,
+          "unit_price": 0.0375,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3299,
+      "name": "Tiras de pechuga de pollo estilo Harissa",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 3.59,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "lidl",
+          "price": 3.59,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3300,
+      "name": "Filete de pechuga de pollo con eneldo",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 4.05,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3301,
+      "name": "Chorizo oreado",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.65,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3302,
+      "name": "Pincho de pollo Tikka Masala",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 3.15,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3303,
+      "name": "Paleta de cebo ibérica 50%",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 4.79,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3304,
+      "name": "Burger de cerdo y vacuno",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 3.39,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3305,
+      "name": "Filete de pechuga de pollo tomate",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 4.05,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3306,
+      "name": "Secreto de pavo indonés",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 4.83,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3307,
+      "name": "Tiras de pechuga de pollo al piri-piri",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 3.59,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3308,
+      "name": "Secreto de pavo provenzal",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 4.83,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3309,
+      "name": "Salami",
+      "category": "Carne y charcutería",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.79,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3310,
+      "name": "Queso parmigiano reggiano DOP",
+      "category": "Lácteos, Queso y Huevos",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 5.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        },
+        {
+          "supermarket": "lidl",
+          "price": 2.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3311,
+      "name": "Activia con frutas",
+      "category": "Lácteos, Queso y Huevos",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.59,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3312,
+      "name": "Babá al ron",
+      "category": "Lácteos, Queso y Huevos",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.49,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3313,
+      "name": "Mozarella de búfala",
+      "category": "Lácteos, Queso y Huevos",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.79,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3314,
+      "name": "Quartirolo Lombardo DOP",
+      "category": "Lácteos, Queso y Huevos",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.49,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3315,
+      "name": "Orecchiette tricolor",
+      "category": "Despensa",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.49,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3316,
+      "name": "Fusili tricolor de Puglia",
+      "category": "Despensa",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.49,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3317,
+      "name": "Conos de vainilla",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.29,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3318,
+      "name": "Bon Gelati",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 4.99,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3319,
+      "name": "Mini mix",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.89,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3320,
+      "name": "Mezcla de verduras",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.39,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3321,
+      "name": "Calzone con tomate y mozzarella",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.79,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3322,
+      "name": "Helado sabor café",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 1.79,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3323,
+      "name": "Bocca Mi cocina italiana",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 10,
+          "unit_price": null,
+          "captured_at": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "product_id": 3324,
+      "name": "Pasta con brócoli",
+      "category": "Congelados",
+      "prices": [
+        {
+          "supermarket": "lidl",
+          "price": 2.99,
+          "unit_price": null,
           "captured_at": "2026-07-18"
         }
       ]
