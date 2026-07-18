@@ -6,7 +6,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from db.init_db import init_db
-from ingestion import facua_client, mercadona_datania
+from ingestion import facua_client, mercadona_direct
 from scrapers import lidl, supeco, gadis
 from normalization import run_matching
 from export import build_static_json
@@ -19,9 +19,9 @@ def main():
     log.info("1/5 -- asegurando esquema de BBDD")
     init_db()
 
-    log.info("2/5 -- catálogo Mercadona (dataset datania)")
+    log.info("2/5 -- catálogo Mercadona (API directa)")
     try:
-        mercadona_datania.run()
+        mercadona_direct.run()
     except Exception:
         log.exception("Fallo cargando catálogo de Mercadona -- se continúa")
 
