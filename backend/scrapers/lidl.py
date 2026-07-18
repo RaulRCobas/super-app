@@ -37,8 +37,27 @@ NAME_SELECTOR = ".product-grid-box__title[data-qa-label='product-grid-box-title'
 PRICE_SELECTOR = ".product-grid-box__price .ods-price__value"
 
 
+def _dismiss_cookie_banner(page):
+    for sel in ["#onetrust-accept-btn-handler", "button:has-text('Aceptar todas')", "button:has-text('Aceptar')"]:
+        try:
+            page.click(sel, timeout=3000)
+            return True
+        except Exception:
+            continue
+    return False
+
+
 def scrape_category(page, url: str):
     page.goto(url, wait_until="networkidle", timeout=30000)
+    _dismiss_cookie_banner(page)
+    try:
+        page.wait_for_selector(PRODUCT_CARD_SELECTOR, timeout=8000)
+    except Exception:
+        pass
+    # el grid carga por scroll infinito -- baja varias veces para forzar que pinte más tarjetas
+    for _ in range(6):
+        page.mouse.wheel(0, 2500)
+        page.wait_for_timeout(500)
     page.wait_for_selector(PRODUCT_CARD_SELECTOR, timeout=15000)
     cards = page.query_selector_all(PRODUCT_CARD_SELECTOR)
     results = []

@@ -40,7 +40,8 @@ def find_current_folleto_pdf_url(playwright_page) -> str | None:
     busca cualquier enlace/atributo que apunte a un .pdf en la página o en sus iframes.
     Si no lo encuentra, no hay PDF descargable y hay que caer en manual_pdf_path.
     """
-    playwright_page.goto(FOLLETO_URL, wait_until="networkidle", timeout=30000)
+    playwright_page.goto(FOLLETO_URL, wait_until="domcontentloaded", timeout=45000)
+    playwright_page.wait_for_timeout(4000)
     candidates = playwright_page.eval_on_selector_all(
         "a[href], iframe[src], [data-pdf-url], [data-src]",
         "els => els.map(e => e.getAttribute('href') || e.getAttribute('src') || e.getAttribute('data-pdf-url') || e.getAttribute('data-src')).filter(Boolean)",
@@ -90,7 +91,10 @@ def run(manual_pdf_path: str | None = None):
         pdf_url = None
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
+            page = browser.new_page(user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            ))
             try:
                 pdf_url = find_current_folleto_pdf_url(page)
             except Exception:
