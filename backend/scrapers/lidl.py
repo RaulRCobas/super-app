@@ -1,17 +1,17 @@
 """
-Lidl no está en FACUA. Su tienda online en España (lidl.es/es/onlineshop) es una SPA
-que carga el catálogo por JS -- necesita Playwright, no basta requests+BeautifulSoup.
+Lidl no está en FACUA. Su tienda online en España (lidl.es) es una SPA (Vue) que carga
+el catálogo por JS -- necesita Playwright, no basta requests+BeautifulSoup.
 
-⚠️ Aviso importante: el "onlineshop" de Lidl España es históricamente un catálogo de NO
-alimentación (electrónica, hogar, bricolaje, ropa...) -- Lidl normalmente NO vende
-alimentación/frescos online en España, solo en tienda física. Antes de invertir tiempo
-aquí, confirma si lo que ves en tu lista de la compra (comida) tiene siquiera equivalente
-en ese catálogo -- si no, este scraper solo te servirá para categorías de no-alimentación.
+✓ Confirmado por navegación real: lidl.es sí vende alimentación online (fruta y verdura,
+carne, lácteos, panadería, despensa, congelados, bebidas) -- las categorías y selectores
+de abajo están verificados contra el HTML real, no son una suposición.
 
 Requiere: pip install playwright && playwright install chromium
-Los selectores de abajo son un punto de partida razonable para una PLP (product listing
-page) típica -- pero no se han podido verificar contra el HTML real desde este entorno.
-Ejecuta con --headed la primera vez e inspecciona/ajusta CATEGORY_URLS y los selectores.
+Notas del HTML real:
+- El precio numérico también está en el atributo JSON data-gridbox-impression del
+  contenedor de la tarjeta (campo "price") -- más fiable que parsear el texto "1.99€"
+  si algún día el texto cambia de formato.
+- El id de producto aparece en li[id='grid-item-0-<ID>'].
 """
 import logging
 from datetime import date
@@ -22,14 +22,19 @@ from normalization.unit_parser import parse_package_size, compute_unit_price
 log = logging.getLogger(__name__)
 
 BASE = "https://www.lidl.es"
-# TODO: rellena con las categorías reales que te interesen tras inspeccionar /es/onlineshop
 CATEGORY_URLS = [
-    # ("nombre categoria", "https://www.lidl.es/es/onlineshop/c/alguna-categoria/a12345"),
+    ("Fruta y verdura", "https://www.lidl.es/h/fruta-y-verdura/h10071012"),
+    ("Carne y charcutería", "https://www.lidl.es/h/carne-y-charcuteria/h10095752"),
+    ("Lácteos, Queso y Huevos", "https://www.lidl.es/h/lacteos-queso-y-huevos/h10095761"),
+    ("Panadería y Bollería", "https://www.lidl.es/h/panaderia-y-bolleria/h10096086"),
+    ("Despensa", "https://www.lidl.es/h/despensa/h10096095"),
+    ("Congelados", "https://www.lidl.es/h/congelados/h10071049"),
+    ("Bebidas", "https://www.lidl.es/h/bebidas/h10071022"),
 ]
 
-PRODUCT_CARD_SELECTOR = "div[data-grid-item], .plpp-product-card, article.product-grid-box"
-NAME_SELECTOR = ".plpp-product-card__title, .odsc-tile__title, h3"
-PRICE_SELECTOR = ".plpp-price__price, .odsc-price__value, [data-price]"
+PRODUCT_CARD_SELECTOR = "li[id^='grid-item-'] .product-grid-box"
+NAME_SELECTOR = ".product-grid-box__title[data-qa-label='product-grid-box-title']"
+PRICE_SELECTOR = ".product-grid-box__price .ods-price__value"
 
 
 def scrape_category(page, url: str):

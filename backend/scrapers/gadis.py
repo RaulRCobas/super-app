@@ -1,20 +1,22 @@
 """
 Gadis. La web informativa gadisytu.com/gadis.es NO es la tienda -- la compra online real
-está en https://www.gadisline.com/, y esa tienda requiere cuenta de cliente para navegar
-el catálogo con precios (típico de los supermercados españoles con reparto a domicilio).
+está en https://www.gadisline.com/ (Next.js).
 
-Eso cambia el aviso legal: aquí no hablamos de "scrapear una web pública anónima", sino de
-automatizar tu PROPIA sesión ya logueada en tu cuenta de Gadisline. Sigue sin estar exento
-de sus términos de servicio, pero el marco es distinto (es tu cuenta, tus datos de acceso).
-Antes de activar esto en producción, confírmalo tú mismo entrando a gadisline.com.
+✓ Confirmado por navegación real: los precios se ven SIN necesidad de cuenta/login --
+así que este scraper NO inicia sesión por defecto (más simple y sin credenciales).
+Si en el futuro Gadisline empieza a exigir login para ver precios, hay una función
+login() ya escrita más abajo, lista para activar.
 
 Requiere: pip install playwright && playwright install chromium
-Necesitas credenciales propias de Gadisline -- pásalas por variables de entorno, nunca las
-escribas en este fichero: GADISLINE_EMAIL / GADISLINE_PASSWORD.
-
-Los selectores de abajo son un punto de partida razonable (no verificado desde este
-entorno, gadisline.com bloqueó el acceso directo). Ejecuta con headless=False la primera
-vez para ajustar selectores contra el HTML real.
+Notas del HTML real:
+- Next.js con CSS Modules con hash (ej. ProductPrice_price__JPA6C) -- los selectores de
+  abajo usan data-testid/role + prefijo de clase (`^=`), que son estables aunque el hash
+  cambie en cada build.
+- Precio en formato "3,85 €" con espacio no separable (\\u00a0) -- ya soportado por el parser.
+- Precio por kg/l en [data-testid='ProductPriceComponent'] [class^='ProductPrice_priceKiloLitre'].
+- No existe /es/login (404); las páginas de cuenta reales son /pag/mi-cuenta/mis-datos y
+  /pag/mi-cuenta/registro -- el formulario de login carga por JS y sus selectores exactos
+  quedan sin verificar (solo hacen falta si activas login()).
 """
 import os
 import logging
@@ -26,18 +28,24 @@ from normalization.unit_parser import parse_package_size, compute_unit_price
 log = logging.getLogger(__name__)
 
 BASE = "https://www.gadisline.com"
-LOGIN_URL = f"{BASE}/es/login"
+LOGIN_URL = f"{BASE}/pag/mi-cuenta/mis-datos"
 POSTAL_CODE = "15011"  # fija siempre la zona antes de leer precios -- nunca compares precios de códigos postales distintos
-# TODO: rellena con las categorías reales tras loguearte e inspeccionar el menú
+REQUIRE_LOGIN = False  # confirmado: los precios se ven sin cuenta -- cambia a True si esto deja de ser cierto
+
 CATEGORY_URLS = [
-    # ("nombre categoria", "https://www.gadisline.com/es/categoria/alguna-categoria"),
+    ("Alimentación", "https://www.gadisline.com/alimentacion"),
+    ("Frescos", "https://www.gadisline.com/frescos"),
+    ("Congelado", "https://www.gadisline.com/congelado"),
+    ("Lácteos", "https://www.gadisline.com/lacteos"),
+    ("Bodega y bebidas", "https://www.gadisline.com/bodega-y-bebidas"),
+    ("Limpieza", "https://www.gadisline.com/limpieza"),
+    ("Higiene y belleza", "https://www.gadisline.com/higiene-y-belleza"),
 ]
 
-PRODUCT_CARD_SELECTOR = ".product-item, .product-card, article.product"
-NAME_SELECTOR = ".product-item__name, .product-name, h3"
-PRICE_SELECTOR = ".product-item__price, .price, [data-price]"
-# TODO: ajusta este selector tras inspeccionar el flujo real de "cambiar tienda/código postal"
-# de Gadisline una vez logueado (suele ser un modal o un campo en la cabecera).
+PRODUCT_CARD_SELECTOR = "article[role='productCard']"
+NAME_SELECTOR = "a[data-testid='ProductTitleLink']"
+PRICE_SELECTOR = "[data-testid='ProductPriceComponent'] [class^='ProductPrice_price__']"
+# Selectores de login SIN VERIFICAR -- el formulario carga por JS, solo hacen falta si REQUIRE_LOGIN=True
 POSTAL_CODE_INPUT_SELECTOR = "input[name=postalCode], input[placeholder*='código postal' i]"
 POSTAL_CODE_SUBMIT_SELECTOR = "button[type=submit], button:has-text('Confirmar')"
 
@@ -118,8 +126,9 @@ def run():
         zone_id = get_or_create_zone(conn, supermarket_id, POSTAL_CODE)
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        login(page)
-        set_postal_code(page)
+        if REQUIRE_LOGIN:
+            login(page)
+            set_postal_code(page)
         total = 0
         for cat_name, url in CATEGORY_URLS:
             try:
